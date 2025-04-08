@@ -1,8 +1,6 @@
-# Hi there, I'm Roman! 👋🏾
+## Hi there, I'm Roman! 👋🏾
 
-I'm a product designer who thrives on transforming complex concepts into seamless digital experiences that tell stories and drive engagement. My process is human-centered design thinking combined with strategic reasoning. I venture into understanding user behavior through insights from data to make an impact on all aspects of the design process.
-
-## A Little About Me
+I'm a product designer who thrives on crafting seamless digital experiences that move people. I'm currently on the Design Engineer track, learning frontend software development.
 
 My first computer interaction was GTA Vice City, because, of course. Since then, I’ve explored nearly every corner of tech — coding, cybersecurity, you name it — before finding my groove in design. When I’m not deep in Figma, I’m probably roaming Nairobi (or Los Santos), shooting hoops, reading, burning dinner in the name of “cooking,” or doom-scrolling with purpose.
 
